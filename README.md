@@ -20,19 +20,19 @@ En esta ocasión, nos entusiasma la idea de que te interese el curso introductor
 
 ### Instructores
 
-- [Evelia Coss](https://eveliacoss.github.io/) - Posdoctoral LIIGH, Coordinadora de los [VieRnes de Bioinformática en el LIIGH-UNAM](https://viernesbioinformatica.github.io/), correo: ecoss@liigh.unam.mx
+- [Evelia Coss](https://eveliacoss.github.io/) * - Posdoctoral LIIGH, Coordinadora de los [VieRnes de Bioinformática en el LIIGH-UNAM](https://viernesbioinformatica.github.io/), correo: ecoss@liigh.unam.mx
 - Aarón Espinosa Jaime
-
-*Los instructores estan certificados por [The Carpentries](https://carpentries.org/).
 
 ### Helpers
 
 - Daniel Chávez
 - Camilo Pérez
-- Abel Lovaco Flores
+- Abel Lovaco Flores *
 - Israel Aguilar - Posdoctoral Tec-Monterrey, Coordinador de los [VieRnes de Bioinformática en el LIIGH-UNAM]
 
 **Curso registrado en The Carpentries.**
+
+* Los instructores estan certificados por [The Carpentries](https://carpentries.org/).
 
 ## Sobre el curso 📙
 
