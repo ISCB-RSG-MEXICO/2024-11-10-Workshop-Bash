@@ -8,6 +8,10 @@ Fechas: 10 y 11 diciembre 2024 (9 am - 4:30 pm UTC-6, Ciudad de Mexico)
 
 **Nivel principiante**
 
+<p align="center">
+<img src='flyer_bash2024.jpg' width='600'>
+</p>
+
 ## Sobre nosotros 🔥
 
 El Regional Student Group, [RSG-México](https://rsg-mexico.iscbsc.org/), es un grupo de estudiantes de posgrado que se dedica a impulsar y motivar la difusión de áreas como biología computacional y bioinformática, generando un espacio seguro que permita el aprendizaje y discusión de temas en dichas áreas.
