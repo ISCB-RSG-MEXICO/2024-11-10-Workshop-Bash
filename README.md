@@ -21,14 +21,16 @@ En esta ocasión, nos entusiasma la idea de que te interese el curso introductor
 ### Instructores
 
 - [Evelia Coss](https://eveliacoss.github.io/) * - Posdoctoral LIIGH, Coordinadora de los [VieRnes de Bioinformática en el LIIGH-UNAM](https://viernesbioinformatica.github.io/), correo: ecoss@liigh.unam.mx
-- Aarón Espinosa Jaime
+- Aarón Espinosa Jaime - Estudiante de maestria, Cinvestav-LANGEBIO.
 
 ### Helpers
 
-- Daniel Chávez
-- Camilo Pérez
-- Abel Lovaco Flores *
-- Israel Aguilar - Posdoctoral Tec-Monterrey, Coordinador de los [VieRnes de Bioinformática en el LIIGH-UNAM]
+- Daniel Chávez  - Profesor invitado, UAGro.
+- Camilo Pérez - Estudiante de doctorado, Cinvestav-LANGEBIO.
+- Abel Lovaco Flores - Estudiante de maestria, Cinvestav-Irapuato.
+- Israel Aguilar - Posdoctoral Tec-Monterrey, Coordinador de los [VieRnes de Bioinformática en el LIIGH-UNAM](https://viernesbioinformatica.github.io/).
+- Mariana Devon - Estudiante de maestría, UAM.
+- Andrés Arredondo - Ciencias Agrogenómicas, CCM-UNAM.
 
 **Curso registrado en The Carpentries.**
 
