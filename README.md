@@ -22,6 +22,7 @@ En esta ocasión, nos entusiasma la idea de que te interese el curso introductor
 
 - [Evelia Coss](https://eveliacoss.github.io/) * - Posdoctoral LIIGH, Coordinadora de los [VieRnes de Bioinformática en el LIIGH-UNAM](https://viernesbioinformatica.github.io/), correo: ecoss@liigh.unam.mx
 - Aarón Espinosa Jaime - Estudiante de maestria, Cinvestav-LANGEBIO.
+- Andrés Arredondo - Ciencias Agrogenómicas, CCM-UNAM.
 
 ### Helpers
 
