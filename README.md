@@ -56,9 +56,9 @@ Completa el: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSec3mQzH-MOI
 
 ## Contenido 📌
 
-Pagina web: https://iscb-rsg-mexico.github.io/2024-12-10-Workshop-Bash/
-Material: https://eveliacoss.github.io/Workshop_Bash2024/requisitos.html (por ajustar al material de Carpentry)
-Leccion: https://swcarpentry.github.io/shell-novice-es/
+- Pagina web: https://iscb-rsg-mexico.github.io/2024-12-10-Workshop-Bash/
+- Material: https://iscb-rsg-mexico.github.io/Workshop_Bash2024/
+- Leccion de SWC: https://swcarpentry.github.io/shell-novice-es/
 
 ## Patrocinadores
 
